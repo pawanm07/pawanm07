@@ -10,7 +10,7 @@
   
 - 👨🏻‍💻 I’m currently working on **Healthcare Customer Churn Analysis using Power BI**
 
-- 🌱 I’m currently learning **Python, PowerBI , SQL**
+- 🌱 I’m currently learning **Python, PowerBI , goole SQL**
 
 - 💬 Ask me about **Data Analysis**
 
