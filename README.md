@@ -28,7 +28,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
 </a>
 <a href="https://leetcode.com/u/pawanmahalle007/" target="blank">
-  <img align="center" src="https://github.com/pawanm07/pawanm07/blob/main/leetcode.png" alt="LeetCode" height="31" width="33" />
+  <img align="center" src="https://github.com/pawanm07/pawanm07/blob/main/leetcode.png" alt="LeetCode" height="30" width="32" />
 </a>
 </p>
 
