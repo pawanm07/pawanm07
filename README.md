@@ -8,7 +8,7 @@
 </p>
 <p align="center">
   
-- 👨🏻‍💻 I’m currently working on **Finance Dashboard using Power BI**
+- 👨🏻‍💻 I’m currently working on **Finance PowerBI Dashboard**
 
 - 🌱 I’m currently learning **Python, PowerBI , SQL**
 
