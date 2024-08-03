@@ -10,7 +10,7 @@
   
 - 👨🏻‍💻 I’m currently working on **Finance PowerBI Dashboard**
 
-- 🌱 I’m currently learning **Python, PowerBI , SQL**
+- 🌱 I’m currently learning **Python , PowerBI , SQL**
 
 - 💬 Ask me about **Data Analysis**
 
