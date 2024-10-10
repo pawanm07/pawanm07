@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Python , PowerBI , SQL**
 
-- 💬 Ask me about **Data Analysi**
+- 💬 Ask me about **Data Analysis**
 
 - 📫 How to reach me **pawanmahalle007@gmail.com**
 
