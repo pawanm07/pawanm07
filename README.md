@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **pawanmahalle007@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/PavanMahalle](  )
+- 📄 Know about my experiences [  ](  )
 
 
 <h3 align="left">Connect with me:</h3>
